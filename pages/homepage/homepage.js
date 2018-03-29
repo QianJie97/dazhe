@@ -12,7 +12,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-    ak: "j7Pq2rUmzXNNN6OcD1dhOOYHIa1kCGn0", //填写申请到的ak  
+    ak: "BX7nz4IzsdLmSzWiym0hM3C6gU1XvpEv", //填写申请到的ak  
     markers1: [],
     systWidth: 0,
     dataPro: {},

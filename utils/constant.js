@@ -6,6 +6,6 @@ var menuId = '124172';
 
 module.exports = {
   brandId: brandId,
-  clientId: 'ac9784632be3529f6068af87cf5d0b92bf7022',
+  clientId: '509d3b94805dacfae27f19da98853a0e90905c',
   menuId: menuId
 }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
